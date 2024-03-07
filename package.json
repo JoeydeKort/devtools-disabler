@@ -1,8 +1,8 @@
 {
   "name": "devtools-disabler",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This disables the devtools for right-clicking, shortcuts and the menu option.",
-  "main": "index.js",
+  "main": "dist/devtools-disabler.js",
   "scripts": {
     "build": "webpack",
     "test": "npm test"
