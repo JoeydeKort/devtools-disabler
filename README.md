@@ -9,7 +9,7 @@ npm i devtools-disabler
 ```
 #### script attribute
 ```js
-<script src="devtools-disabler.js" defer></script>
+<script src="../project-root/node_modules/devtools-disabler/dist/devtools-disabler.js" defer></script>
 ```
 
 ## Function
@@ -24,7 +24,8 @@ npm i devtools-disabler
 
 #### Features
 * Right-click disabled
-* Disables menu option in the browser.
+* Disables menu option in the browser. 
+  * When accessing developer tools from the menu, the tool displays a message and blocks the original page content, prompting you to close the developer tools to restore the original content. 
 
 <details>
 <summary>Shortcuts that are disabled</summary>
@@ -42,7 +43,6 @@ npm i devtools-disabler
 * <kbd>shift + k</kbd>
 * <kbd>ctrl + u</kbd>
 </details>
-
 
 ## Additional measures
 If you also want to make sure that the user can't select like text, etc. Use the following property in your CSS
