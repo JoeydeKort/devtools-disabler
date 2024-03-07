@@ -44,7 +44,6 @@ body {
     user-select: none;
 }
 ```
-## License
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/Author-JoeydeKort-blue">
 <img alt="Static Badge" src="https://img.shields.io/badge/License-MIT-yellow">
