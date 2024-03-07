@@ -1,5 +1,4 @@
 # Ignore build output directories
-/dist/
 /docs/
 
 # Ignore dependency directories
