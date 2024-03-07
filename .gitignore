@@ -1,0 +1,30 @@
+# Ignore build output directories
+/dist/
+/docs/
+
+# Ignore dependency directories
+/node_modules/
+
+# Ignore npm, pnpm, and yarn lock files
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Ignore debugging and cache files
+.pnpm-debug.log
+npm-debug.log
+/.npm/
+/.pnpm/
+
+# Ignore IDE or editor-specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Ignore generated bundle files
+bundle.js
+bundle.js.map

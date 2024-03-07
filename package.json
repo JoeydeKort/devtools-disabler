@@ -1,0 +1,31 @@
+{
+  "name": "devtools-disabler",
+  "version": "1.0.0",
+  "description": "This disables the devtools for right-clicking, shortcuts and the menu option.",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeydeKort/devtools-disabler.git"
+  },
+  "keywords": [
+    "developer",
+    "tools",
+    "disable"
+  ],
+  "author": "JoeydeKort",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoeydeKort/devtools-disabler/issues"
+  },
+  "homepage": "https://github.com/JoeydeKort/devtools-disabler#readme",
+  "devDependencies": {
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.3.3",
+    "webpack": "^5.90.3",
+    "webpack-cli": "^5.1.4"
+  }
+}
