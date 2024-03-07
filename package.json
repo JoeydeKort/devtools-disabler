@@ -1,6 +1,6 @@
 {
   "name": "devtools-disabler",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "This disables the devtools for right-clicking, shortcuts and the menu option.",
   "main": "dist/devtools-disabler.js",
   "scripts": {
