@@ -3,7 +3,14 @@ This tool provides a simple solution to disable developer tools when they are do
 
 ## Usage
 
-
+#### npm refrence to install.
+```
+npm i devtools-disabler
+```
+#### script attribute
+```js
+<script src="devtools-disabler.js" defer></script>
+```
 
 ## Function
 > [!IMPORTANT]
